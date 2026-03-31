@@ -2,9 +2,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "linox",
+   Name = "333",
    LoadingTitle = "linox hub",
-   LoadingSubtitle = "by linox",
+   LoadingSubtitle = "by 333",
    ConfigurationSaving = {Enabled = false},
    KeySystem = true,
    KeySettings = {
@@ -14,7 +14,7 @@ local Window = Rayfield:CreateWindow({
       FileName = "linoxkey",
       SaveKey = false,
       GrabKeyFromSite = false,
-      Key = {"dohan"}
+      Key = {"dohan1010"}
    }
 })
 
